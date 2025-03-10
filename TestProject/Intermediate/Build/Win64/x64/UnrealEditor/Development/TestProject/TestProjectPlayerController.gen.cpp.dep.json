@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\soft\\epic\\project\\spizdiliue\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testproject\\uht\\testprojectplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\soft\\epic\\project\\spizdiliue\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\soft\\epic\\project\\spizdiliue\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testproject\\definitions.testproject.h",
+            "d:\\soft\\epic\\project\\spizdiliue\\testproject\\source\\testproject\\testprojectplayercontroller.h",
+            "d:\\soft\\epic\\project\\spizdiliue\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testproject\\uht\\testprojectplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

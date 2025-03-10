@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Soft\\Epic\\Project\\SpizdiliUE\\TestProject\\Source\\TestProject\\TestProject.Build.cs",
+		"D:\\Soft\\Epic\\Project\\SpizdiliUE\\TestProject\\Source\\TestProject.Target.cs",
+		"D:\\Soft\\Epic\\Project\\SpizdiliUE\\TestProject\\Source\\TestProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
